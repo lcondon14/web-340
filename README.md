@@ -1,2 +1,5 @@
-# web-340
-Assignments for WEB 340
+# WEB 340 Node.js
+
+## Contributors
+* Robert Kumar
+* Laurel Condon
