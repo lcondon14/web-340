@@ -4,8 +4,10 @@
  * Date: 11 June 2023
  * Description: team.js file
  */
+"use strict";
 
-export class Team {
+// Class team
+class Team {
     constructor(name, mascot, playerCount){
         this.name = name;
         this.mascot = mascot;
@@ -13,3 +15,5 @@ export class Team {
     }
 }
 
+// Export Team 
+module.exports = Team;
